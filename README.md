@@ -1,3 +1,9 @@
+## 📁 Project Structure
+- `1_Data_Preparation.ipynb`
+- `2_Skill_Demand.ipynb`
+- `images/` – all plots
+
+### Data Analyst Job Market Analysis using Python
 # Overview
 
 Welcome to my analysis of the data job market, focusing on data analyst roles. This project was created out of a desire to navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
@@ -26,7 +32,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - Visual Studio Code: My go-to for executing my python scripts.
 - Git & Github: Essential for version control and sharing my Python code and analysis, ensuring collaborating on files, respectively.
 
-# Data Preparetion and Cleanup 
+# Data Preparation and Cleanup 
 This section outlines the steps taken to prepare the data for analysis, ensuring accuracy and usability.
 
 # Import & Cleanup Data
@@ -86,7 +92,7 @@ plt.show()
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
-- SQL remains the most consistently demanded skill throughtout the year, although it shows a gradual decrease in demand.
+- SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
 - Excel experienced a significant increase in demand starting around September, surpassing both Python and Tableau by the end of the year.
 - Both Pyhton and Tableau show relatively stable demand throughout the year with some fluctuations but remain essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
 
@@ -140,7 +146,7 @@ plt.show()
 Here's the breakdown of the Highest Paid Skills and Most in-demand skills for data analysts in the US:
 
 ![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](3_Project/images/Salary_Analysis.png)
-*Two separete bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
+*Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
 
@@ -195,7 +201,15 @@ This project was not without its challenges, but it provided good learning oppor
 
 - Data Inconsistencies: Handling missing or inconsistent data entries requires careful consideration and throughout the data techniques to ensure the integrity of the analysis.
 - Complex Data Visualization: Designing effective visual representations of complex datasets was challenging and conveying insights clearly and compellingly.
-- Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad over a landscape required for constant balancing to ensure comprehensive coverage without getting lost in details.
+- Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad landscape required for constant balancing to ensure comprehensive coverage without getting lost in details.
 
 # Conclusion
 This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights i got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+
+### Key Takeaways:
+- Python, SQL, and Excel remain foundational for Data Analysts.
+- Demand for visualization tools like Tableau & Power BI is rising.
+- Programming & database skills lead to higher salary potential.
+
+🔗 Connect with me: [Github](https://github.com/harish-kakumani08/)
+🔗 Connect with me: [LinkedIn](https://linkedin.com/in/harish-kakumani-9b0254217)
