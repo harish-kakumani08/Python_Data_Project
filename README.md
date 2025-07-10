@@ -94,7 +94,7 @@ plt.show()
 ### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
 - Excel experienced a significant increase in demand starting around September, surpassing both Python and Tableau by the end of the year.
-- Both Pyhton and Tableau show relatively stable demand throughout the year with some fluctuations but remain essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
+- Both Python and Tableau show relatively stable demand throughout the year with some fluctuations but remain essential skills for data analysts. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
 
 ## 3. How well do jobs and skills pay for Data Analysts?
 
@@ -199,12 +199,12 @@ This project provided several general insights into the data job market for anal
 # Challenges I Faced
 This project was not without its challenges, but it provided good learning opportunities:
 
-- Data Inconsistencies: Handling missing or inconsistent data entries requires careful consideration and throughout the data techniques to ensure the integrity of the analysis.
+- Data Inconsistencies: Handling missing or inconsistent data entries requires careful consideration and using thorough data handling techniques to ensure the integrity of the analysis.
 - Complex Data Visualization: Designing effective visual representations of complex datasets was challenging and conveying insights clearly and compellingly.
 - Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad landscape required for constant balancing to ensure comprehensive coverage without getting lost in details.
 
 # Conclusion
-This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights i got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
 
 ### Key Takeaways:
 - Python, SQL, and Excel remain foundational for Data Analysts.
